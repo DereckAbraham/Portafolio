@@ -1,5 +1,5 @@
 let header = `
-    <div class="log">DA</div>
+    <img src="https://i0.wp.com/www.followchain.org/wp-content/uploads/2024/02/sad-hamster-Photoroom.png-Photoroom.png?w=604&ssl=1" alt="" class="log">
     <nav>
         <div>Our Vision</div>
         <div> Projects</div>
