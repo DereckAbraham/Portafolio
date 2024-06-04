@@ -7,18 +7,18 @@ let webs = [
         descripcion: "Juego de memoria creado con JavaScript, html y css con diferentes mecanicas"
     },
     {
-        nombre: "Maquetacion",
-        img :"https://raw.githubusercontent.com/DereckAbraham/img/main/img/Maquetacion.png",
-        repositorio: "https://github.com/DereckAbraham/Maquetacion?tab=readme-ov-file",
-        githubpage: "https://dereckabraham.github.io/Maquetacion/",
-        descripcion: "Maquetacion creada en html y css utilizando Grid"
+        nombre: "ToDoList",
+        img :"https://raw.githubusercontent.com/DereckAbraham/img/main/ToDoList.png",
+        repositorio: "https://github.com/DereckAbraham/ToDoList",
+        githubpage: "https://dereckabraham.github.io/ToDoList/",
+        descripcion: "Lista de tareas creado con JavaScript, HTML y CSS "
     },
     {
-        nombre: "Habilidades",
-        img :"https://raw.githubusercontent.com/DereckAbraham/img/main/img/Habilidades.png",
-        repositorio: "https://github.com/DereckAbraham/Profile?tab=readme-ov-file",
-        githubpage: "https://dereckabraham.github.io/Profile/",
-        descripcion: "Sitio creado con grid, con secciones de habilidades personales"
+        nombre: "Calculadora Diseño",
+        img :"https://raw.githubusercontent.com/DereckAbraham/img/main/Calculadora.png",
+        repositorio: "https://github.com/DereckAbraham/Calculadora_Dise-o",
+        githubpage: "https://dereckabraham.github.io/Calculadora_Dise-o/",
+        descripcion: "Calculadora creada en HTML y CSS. NO TIENE FUNCION"
     }
 
 ];

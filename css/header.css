@@ -7,6 +7,7 @@
     align-items: center;
     justify-content: space-evenly;
     padding: 1rem;
+    width: 100%;
 
 }
 
@@ -48,9 +49,13 @@ nav div{
 }
 
 nav div:hover{
-    transition: 1ms;
+    transition: 0.5s;
     background-color: gray;
 
+}
+
+.menu{
+    display: none;
 }
 
 .btn{
@@ -69,7 +74,7 @@ nav div:hover{
 }
 
 .btn:hover{
-    transition: 1ms;
+    transition: 0.5s;
     background-color: rgb(155, 155, 202);
 
 }

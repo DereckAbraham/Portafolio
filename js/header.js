@@ -8,5 +8,10 @@ let header = `
         <div>Get in Touch</div>
     </nav>
     <div class="btn">Pricing</div>
+    <div class="menu">
+        <span class="material-symbols-outlined">
+            menu
+        </span>
+    </div>
 `;
 export{header}
