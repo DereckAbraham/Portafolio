@@ -1,17 +1,45 @@
-.cuadroLateral{
+.cuadroLateral {
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 2;
     grid-row-end: 4;
 }
-.info{
+
+.info {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-self: center;
 }
-.nombre{
+
+.nombre {
     padding: 1rem;
     font-size: 3rem;
     font-weight: 600;
+}
+
+.skills-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.grid-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-item img {
+    max-width: 10rem;
+    max-height: 10rem;
 }
