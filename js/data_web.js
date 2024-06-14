@@ -28,18 +28,18 @@ let webs = [
         descripcion: "Generador de contraseñas construido en HTML, CSS y JavaScript"
     },
     {
-        nombre: "ToDoList",
-        img :"https://raw.githubusercontent.com/DereckAbraham/img/main/ToDoList.png",
-        repositorio: "https://github.com/DereckAbraham/ToDoList",
-        githubpage: "https://dereckabraham.github.io/ToDoList/",
-        descripcion: "Lista de tareas creado con JavaScript, HTML y CSS "
+        nombre: "Indice de Masa Corporal",
+        img :"https://github.com/DereckAbraham/img/blob/main/Captura%20de%20pantalla%202024-06-14%20081026.png?raw=true",
+        repositorio: "https://github.com/DereckAbraham/IndiceMasaCorporal",
+        githubpage: "https://github.com/DereckAbraham/IndiceMasaCorporal",
+        descripcion: "Calculadora para medir tu masa corporal (Programado en Java)"
     },
     {
-        nombre: "Calculadora Diseño",
-        img :"https://raw.githubusercontent.com/DereckAbraham/img/main/Calculadora.png",
-        repositorio: "https://github.com/DereckAbraham/Calculadora_Dise-o",
-        githubpage: "https://dereckabraham.github.io/Calculadora_Dise-o/",
-        descripcion: "Calculadora creada en HTML y CSS. NO TIENE FUNCION"
+        nombre: "Herrameinta Visualizacion de Texto",
+        img :"https://github.com/DereckAbraham/img/blob/main/Captura%20de%20pantalla%202024-06-14%20080930.png?raw=true",
+        repositorio: "https://github.com/DereckAbraham/HerramientaDatos",
+        githubpage: "https://github.com/DereckAbraham/HerramientaDatos",
+        descripcion: "Herramienta para vizualizar texto. Cuenta Palabras, Oraciones (Programado en Java)"
     }
 
 
