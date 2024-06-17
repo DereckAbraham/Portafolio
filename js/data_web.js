@@ -41,6 +41,14 @@ let webs = [
         githubpage: "https://github.com/DereckAbraham/HerramientaDatos",
         descripcion: "Herramienta para vizualizar texto. Cuenta Palabras, Oraciones (Programado en Java)"
     }
+    ,
+    {
+        nombre: "Clone de Pagina Web",
+        img :"https://github.com/DereckAbraham/img/blob/main/Captura%20de%20pantalla%202024-06-17%20100647.png?raw=true",
+        repositorio: "https://github.com/DereckAbraham/PepsiCola",
+        githubpage: "https://dereckabraham.github.io/PepsiCola/",
+        descripcion: "Clone de la Pagina Oficial de Pepsi, creada con HTML y CSS (Pagina Oficial: https://www.pepsi.com/)"
+    }
 
 
 ];
