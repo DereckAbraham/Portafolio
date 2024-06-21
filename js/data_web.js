@@ -2,8 +2,8 @@ let webs = [
     {
         nombre: "Juego de Memoria",
         img :"https://raw.githubusercontent.com/DereckAbraham/img/main/img/Captura%20de%20pantalla%202024-03-15%20083456.png",
-        repositorio: "https://github.com/DereckAbraham/Memoria2024",
-        githubpage: "https://dereckabraham.github.io/Memoria2024/",
+        repositorio: "https://github.com/DereckAbraham/GameMemoria",
+        githubpage: "https://dereckabraham.github.io/GameMemoria/",
         descripcion: "Juego de memoria creado con JavaScript, html y css con diferentes mecanicas"
     },
     {
@@ -48,6 +48,14 @@ let webs = [
         repositorio: "https://github.com/DereckAbraham/PepsiCola",
         githubpage: "https://dereckabraham.github.io/PepsiCola/",
         descripcion: "Clone de la Pagina Oficial de Pepsi, creada con HTML y CSS (Pagina Oficial: https://www.pepsi.com/)"
+    }
+    ,
+    {
+        nombre: "Tienda Virtual",
+        img :"https://github.com/DereckAbraham/img/blob/main/Captura%20de%20pantalla%202024-06-20%20193331.png?raw=true",
+        repositorio: "https://github.com/cris2265/grupo2_tienda_2024",
+        githubpage: "https://cris2265.github.io/grupo2_tienda_2024/",
+        descripcion: "Tienda ficticia 100% funcional creada en HTML CSS Y JS "
     }
 
 
