@@ -2,8 +2,8 @@ let webs = [
     {
         nombre: "Juego de Memoria",
         img :"https://raw.githubusercontent.com/DereckAbraham/img/main/img/Captura%20de%20pantalla%202024-03-15%20083456.png",
-        repositorio: "https://github.com/DereckAbraham/GameMemoria",
-        githubpage: "https://dereckabraham.github.io/GameMemoria/",
+        repositorio: "https://github.com/DereckAbraham/Memoria2024",
+        githubpage: "https://dereckabraham.github.io/Memoria2024/",
         descripcion: "Juego de memoria creado con JavaScript, html y css con diferentes mecanicas"
     },
     {
